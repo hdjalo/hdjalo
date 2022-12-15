@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hdjalo
 - 👀 I’m interested in micresoft azure
 - 🌱 I’m currently learning cloud computing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on cloud computing and new technology
 - 📫 How to reach me hamido.djalo@gmail.com
 
 <!---
